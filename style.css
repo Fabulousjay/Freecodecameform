@@ -237,8 +237,9 @@
   .main #survey-form{
     position: relative;
     left:10px;
-    width:70%;
+    width:60%;
     font-size:12px;
+    height:240vh;
    
   }
 
@@ -282,6 +283,8 @@
     left:-10px;
     width:80%;
     font-size:12px;
+    height:230vh;
+  
    
   }
 
@@ -322,9 +325,10 @@
   
   .main #survey-form{
     position: relative;
-    left:-20px;
+    left:2px;
     width:90%;
     font-size:12px;
+    height:230vh;
    
   }
 
